@@ -1,0 +1,12 @@
+protocol,fold,model,accuracy,macro_f1,balanced_accuracy,num_files
+random_grouped,random,residual_tree,0.8325,0.8333417312132514,0.8325000000000001,800
+loco,condition_1,residual_tree,0.8425,0.824816444185662,0.8425,400
+loco,condition_2,residual_tree,0.8525,0.8375177607274795,0.8525,400
+loco,condition_3,residual_tree,0.7969924812030075,0.7657945582251722,0.795,399
+loco,condition_4,residual_tree,0.76,0.7409520830187873,0.76,400
+loco,condition_5,residual_tree,0.6675,0.6510180752033735,0.6675,400
+loco,condition_6,residual_tree,0.845,0.8284972204116243,0.845,400
+loco,condition_7,residual_tree,0.8725,0.8527530364372469,0.8724999999999999,400
+loco,condition_8,residual_tree,0.8675,0.8473286675245058,0.8675,400
+loco,condition_9,residual_tree,0.86,0.8436166173008279,0.86,400
+loco,condition_10,residual_tree,0.8475,0.824712156368731,0.8474999999999999,400

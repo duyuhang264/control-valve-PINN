@@ -1,0 +1,6 @@
+fold,ablation,accuracy,macro_f1,balanced_accuracy
+random,no_residual_branch,0.5,0.3333333333333333,0.5
+random,no_tf_branch,0.5,0.3333333333333333,0.5
+random,concat_fusion,0.0,0.0,0.0
+random,no_domain_adversarial,0.0,0.0,0.0
+random,no_physics_loss,0.0,0.0,0.0
