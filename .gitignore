@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific: keep core code + selected result artifacts only
+data/
+.venv/
+.idea/
+
+# Nested repo metadata should never be versioned from parent repo
+code/.git/
+
+# Ignore heavy intermediate/output folders
+code/tmp_*/
+code/scripts/outputs_*/
+code/scripts/scripts/
+code/outputs_*/
+
+# Keep one finalized result package (paper materials)
+!code/outputs_residual_tree_v1/
+!code/outputs_residual_tree_v1/**

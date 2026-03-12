@@ -1,9 +1,0 @@
-path,file_id,fault_id,condition_id,opening_id,duration_s,fs_hz,n_samples
-tmp_demo_data\fault0-condition1\fault0-condition1-1.csv,fault0-condition1/fault0-condition1-1.csv,0,1,1,0.0399,10000.0,400
-tmp_demo_data\fault0-condition1\fault0-condition1-2.csv,fault0-condition1/fault0-condition1-2.csv,0,1,2,0.0399,10000.0,400
-tmp_demo_data\fault0-condition2\fault0-condition2-1.csv,fault0-condition2/fault0-condition2-1.csv,0,2,1,0.0399,10000.0,400
-tmp_demo_data\fault0-condition2\fault0-condition2-2.csv,fault0-condition2/fault0-condition2-2.csv,0,2,2,0.0399,10000.0,400
-tmp_demo_data\fault1-condition1\fault1-condition1-1.csv,fault1-condition1/fault1-condition1-1.csv,1,1,1,0.0399,10000.0,400
-tmp_demo_data\fault1-condition1\fault1-condition1-2.csv,fault1-condition1/fault1-condition1-2.csv,1,1,2,0.0399,10000.0,400
-tmp_demo_data\fault1-condition2\fault1-condition2-1.csv,fault1-condition2/fault1-condition2-1.csv,1,2,1,0.0399,10000.0,400
-tmp_demo_data\fault1-condition2\fault1-condition2-2.csv,fault1-condition2/fault1-condition2-2.csv,1,2,2,0.0399,10000.0,400
